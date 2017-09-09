@@ -1,5 +1,5 @@
 # Leitor_QR_Code_Android
-Leitor de QR Code com Android Studio para fins didáticos.
+Leitor de QR Code usando ZXing com Android Studio para fins didáticos.
 
 Criado baseado no material didático disponibilizado no link abaixo: <br />
 https://www.youtube.com/channel/UCqo0LfRgo5ZUvFAn2wqgprg/featured
